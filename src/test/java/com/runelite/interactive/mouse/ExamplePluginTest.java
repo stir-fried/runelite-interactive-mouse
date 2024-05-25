@@ -1,4 +1,4 @@
-package com.example;
+package com.runelite.interactive.mouse;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
